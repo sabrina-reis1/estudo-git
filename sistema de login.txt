@@ -1,2 +1,2 @@
 Digite seu e-mail:
-Digite sua idade: 
+Digite a sua idade: 
